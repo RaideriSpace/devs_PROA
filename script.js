@@ -8,6 +8,14 @@ const devs = [
 		foto: "https://media.licdn.com/dms/image/v2/D5603AQHjCgDQpQ7l9Q/profile-displayphoto-crop_800_800/B56ZjD1kGpHQAI-/0/1755632255877?e=1764806400&v=beta&t=CNriLivAmCfmDjJ69_m8AHW_6GbDTnAmkltMV2RZq4E",
 	},
 
+	{
+		nome: "Deeniel Silva Santos",
+		bio: "One Piece e vida, Chofer do Pierre nos eventos",
+		github: "https://github.com/k4lleb",
+		linkedin: "https://www.linkedin.com/in/daniel-ssantoss/",
+		foto: "https://www.lingerandlook.com/Names/Dogs/cagney.jpg",
+	},
+
   
 	// 👇 EXEMPLO DE DEVE ADICIONAR SEU CARD 👇
 	// {
@@ -35,3 +43,5 @@ devs.forEach((dev) => {
 
 	gallery.appendChild(card);
 });
+
+
