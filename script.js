@@ -8,7 +8,15 @@ const devs = [
 		foto: "https://media.licdn.com/dms/image/v2/D5603AQHjCgDQpQ7l9Q/profile-displayphoto-crop_800_800/B56ZjD1kGpHQAI-/0/1755632255877?e=1764806400&v=beta&t=CNriLivAmCfmDjJ69_m8AHW_6GbDTnAmkltMV2RZq4E",
 	},
 
-  
+    {
+		nome: "Lucas de Britto Cruz",
+		bio: "Desenvolvendor em início de carreira, ansioso para conhecer mais desse mundo!",
+		github: "https://github.com/FireForge-dev",
+		linkedin: "https://www.linkedin.com/in/lucas-de-britto-cruz/",
+		foto: "https://github.com/FireForge-dev.png",
+	},
+
+
 	// 👇 EXEMPLO DE DEVE ADICIONAR SEU CARD 👇
 	// {
 	//   nome: "Seu Nome",
