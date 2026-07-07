@@ -5,9 +5,9 @@ const devs = [
 		bio: "UX/UI Designer em transição para Front-End. Apaixonado por design, código e inovação.",
 		github: "https://github.com/Raideri",
 		linkedin: "https://www.linkedin.com/in/lucasalvespinheiro/",
-		foto: "https://media.licdn.com/dms/image/v2/D5603AQHjCgDQpQ7l9Q/profile-displayphoto-crop_800_800/B56ZjD1kGpHQAI-/0/1755632255877?e=1764806400&v=beta&t=CNriLivAmCfmDjJ69_m8AHW_6GbDTnAmkltMV2RZq4E",
+		foto: "https://i.pinimg.com/236x/2f/30/e6/2f30e6ae48cc44111fbd7d1c59e5b245.jpg",
 	},
-    {
+	{
 		nome: "Lucas de Britto Cruz",
 		bio: "Desenvolvendor em início de carreira, ansioso para conhecer mais desse mundo!",
 		github: "https://github.com/FireForge-dev",
@@ -21,7 +21,7 @@ const devs = [
 		linkedin: "https://www.linkedin.com/in/daniel-ssantoss/",
 		foto: "https://www.lingerandlook.com/Names/Dogs/cagney.jpg",
 	},
-  {
+	{
 		nome: "Meu nome",
 		bio: "Gosto disso e disso",
 		github: "https://github.com/",
@@ -35,7 +35,13 @@ const devs = [
 		linkedin: "https://www.linkedin.com/in/",
 		foto: "https://avatars.githubusercontent.com/u/299690588?s=48&v=4",
 	},
-
+	{
+		nome: "Kathleen Brunna dos Santos",
+		bio: "Desenvolvedora Front-end em formação, Técnica em Administração e atuando com gestão de plataforma atualmente.",
+		github: "https://github.com/kathleenbrunna",
+		linkedin: "https://www.linkedin.com/in/kathleenbrunna/",
+		foto: "https://i.pinimg.com/736x/56/0d/8d/560d8dcb636bb844508e4da0c6626c39.jpg",
+	},
 	// 👇 EXEMPLO DE DEVE ADICIONAR SEU CARD 👇
 	// {
 	//   nome: "Seu Nome",
