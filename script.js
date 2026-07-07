@@ -28,7 +28,13 @@ const devs = [
 		linkedin: "https://www.linkedin.com/in/",
 		foto: "https://preview.redd.it/i-got-bored-so-i-decided-to-draw-a-random-image-on-the-v0-pm1cary85vjb1.jpg?width=640&crop=smart&auto=webp&s=b08a782c1d86fc39fb239ab272c8ec2d70910cd6",
 	},
-  
+	{
+		nome: "Kathleen Brunna dos Santos",
+		bio: "Desenvolvedora Front-end em formação, Técnica em Administração e atuando com gestão de plataforma atualmente.",
+		github: "https://github.com/kathleenbrunna",
+		linkedin: "https://www.linkedin.com/in/kathleenbrunna/",
+		foto: "https://i.pinimg.com/736x/56/0d/8d/560d8dcb636bb844508e4da0c6626c39.jpg",
+	},
 	// 👇 EXEMPLO DE DEVE ADICIONAR SEU CARD 👇
 	// {
 	//   nome: "Seu Nome",
