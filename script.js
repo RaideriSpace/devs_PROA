@@ -28,6 +28,13 @@ const devs = [
 		linkedin: "https://www.linkedin.com/in/",
 		foto: "https://preview.redd.it/i-got-bored-so-i-decided-to-draw-a-random-image-on-the-v0-pm1cary85vjb1.jpg?width=640&crop=smart&auto=webp&s=b08a782c1d86fc39fb239ab272c8ec2d70910cd6",
 	},
+{
+		nome: "Bruna Mariana dos Santos Silva",
+		bio: "Em inicio de carreira, em busca de novos conhecimentos e oportunidades",
+		github: "https://github.com/brunamariana39g-pixel",
+		linkedin: "https://www.linkedin.com/in/",
+		foto: "https://avatars.githubusercontent.com/u/299690588?s=48&v=4",
+	},
 
 	// 👇 EXEMPLO DE DEVE ADICIONAR SEU CARD 👇
 	// {
