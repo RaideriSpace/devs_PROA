@@ -41,6 +41,14 @@ const devs = [
 		github: "https://github.com/kathleenbrunna",
 		linkedin: "https://www.linkedin.com/in/kathleenbrunna/",
 		foto: "https://i.pinimg.com/736x/56/0d/8d/560d8dcb636bb844508e4da0c6626c39.jpg",
+
+		{
+		nome: "Alex Pontes de Castro Martins",
+		bio: "Desenvolvedora Front-End em formação!",
+		github: "https://github.com/AlexDCastro",
+		linkedin: "https://www.linkedin.com/in/alex-de-castro-033a96417/",
+		foto: "https://avatars.githubusercontent.com/u/305482450?s=400&u=95a72047f3f6ee02b3a45d456526af8b7fdeabf0&v=4",
+	},
 	},
 	// 👇 EXEMPLO DE DEVE ADICIONAR SEU CARD 👇
 	// {
